@@ -1,0 +1,52 @@
+// MONTSERRAT
+@font-face {
+	font-family: 'Montserrat';
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'),
+		url('./montserrat/Montserrat-Light.ttf') format('ttf');
+}
+
+font-face {
+	font-family: 'Montserrat';
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'),
+		url('./montserrat/Montserrat-Medium.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'),
+		url('./montserrat/Montserrat-Bold.ttf') format('ttf');
+}
+
+// ONEST
+@font-face {
+	font-family: 'Onest';
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'), url('./onest/Onest-Thin.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Onest';
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'), url('./onest/Onest-Medium.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Onest';
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+	src: local('Montserrat'), url('./onest/Onest-Bold.ttf') format('ttf');
+}
